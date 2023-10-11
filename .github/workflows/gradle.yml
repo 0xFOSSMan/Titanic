@@ -14,7 +14,7 @@ on:
     branches: [ "master" ]
 
 permissions:
-  contents: read-all
+  contents: write
 
 jobs:
   build:
